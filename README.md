@@ -1,7 +1,7 @@
 # Hi, I'm Oswaldo 👋
 
 ## About Me
-I'm a passionate Full Stack developer with an innovative mindset. I enjoy working in teams and am constantly learning new technologies to enhance my skills and add value to my projects.
+I'm a passionate Full Stack developer with an innovative mindset. I enjoy working in teams and am constantly learning new technologies to enhance my skills and add value to my projects🌟
 
 ## Skills and Technologies
 - **Frontend**: HTML, CSS3, React, NextJs, Redux
@@ -13,14 +13,11 @@ I'm a passionate Full Stack developer with an innovative mindset. I enjoy workin
 ## Languages
 English: B1 Level
 
-## Contact
-If you're interested in collaborating on exciting projects or just want to chat about development, feel free to reach out!
+## About
+If you're interested in collaborating on exciting projects or just want to chat about development, don't hesitate to contact me!
+💌 oswaldodevelop@gmail.com [Linkedin](https://www.linkedin.com/in/oswaldo-palacios-perez-523887270/) 😊
 
-
-
-
-
-
+---
 
 # Hola, soy Oswaldo 👋
 
@@ -40,4 +37,3 @@ Inglés: Nivel B1
 ## Contacto
 Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres charlar sobre desarrollo, ¡no dudes en contactarme!
 💌 oswaldodevelop@gmail.com [Linkedin](https://www.linkedin.com/in/oswaldo-palacios-perez-523887270/) 😊
-

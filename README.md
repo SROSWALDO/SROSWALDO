@@ -13,7 +13,7 @@ I'm a passionate Full Stack developer with an innovative mindset. I enjoy workin
 ## Languages
 English: B1 Level
 
-## About
+## Contact
 If you're interested in collaborating on exciting projects or just want to chat about development, don't hesitate to contact me!
 💌 oswaldodevelop@gmail.com [Linkedin](https://www.linkedin.com/in/oswaldo-palacios-perez-523887270/) 😊
 

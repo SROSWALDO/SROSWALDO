@@ -1,3 +1,23 @@
+# Hi, I'm Oswaldo 👋
+
+## About Me
+I'm a passionate Full Stack developer with an innovative mindset. I enjoy working in teams and am constantly learning new technologies to enhance my skills and add value to my projects.
+
+## Skills and Technologies
+- **Frontend**: HTML, CSS3, React, NextJs, Redux
+- **Backend**: NodeJs, ExpressJs
+- **Database**: Sequelize, PostgreSQL
+- **Design**: Tailwind CSS
+- **Version Control**: Git
+
+## Languages
+English: B1 Level
+
+## Contact
+If you're interested in collaborating on exciting projects or just want to chat about development, feel free to reach out!
+
+
+<br>
 # Hola, soy Oswaldo 👋
 
 ## Acerca de mí

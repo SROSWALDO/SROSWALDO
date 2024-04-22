@@ -17,7 +17,11 @@ English: B1 Level
 If you're interested in collaborating on exciting projects or just want to chat about development, feel free to reach out!
 
 
-<br>
+
+
+
+
+
 # Hola, soy Oswaldo 👋
 
 ## Acerca de mí

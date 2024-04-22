@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hola, soy Oswaldo 👋
 
-<!--
-**SROSWALDO/SROSWALDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+Soy un apasionado desarrollador Full Stack con una mentalidad innovadora. Disfruto trabajando en equipo y estoy constantemente aprendiendo nuevas tecnologías para mejorar mis habilidades y aportar valor en mis proyectos.
 
-Here are some ideas to get you started:
+## Habilidades y Tecnologías
+- **Frontend**: HTML, CSS3, React, NextJs, Redux
+- **Backend**: NodeJs, ExpressJs
+- **Base de datos**: Sequelize, PostgreSQL
+- **Diseño**: Tailwind CSS
+- **Control de versiones**: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Idiomas
+Inglés: Nivel B1
+
+## Contacto
+Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres charlar sobre desarrollo, ¡no dudes en contactarme!
+

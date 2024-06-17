@@ -4,7 +4,10 @@
 I'm a passionate Full Stack developer with an innovative mindset. I enjoy working in teams and am constantly learning new technologies to enhance my skills and add value to my projects🌟
 
 ## Skills and Technologies
-- **Frontend**: HTML, CSS3, React, NextJs, Redux
+- **Frontend**:
+<p> 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/96ed519aa1a3885c84688385d054a0a547720a93231de5ebed00266114e9a4fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/96ed519aa1a3885c84688385d054a0a547720a93231de5ebed00266114e9a4fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" alt="React" data-canonical-src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
 - **Backend**: NodeJs, ExpressJs
 - **Database**: Sequelize, PostgreSQL
 - **Design**: Tailwind CSS

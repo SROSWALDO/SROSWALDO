@@ -14,10 +14,11 @@ I'm a passionate Full Stack developer with an innovative mindset. I enjoy workin
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7997545192468d67af275317b4210fac4996c660cf00a331fd947e4a93eec57f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7997545192468d67af275317b4210fac4996c660cf00a331fd947e4a93eec57f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="Redux" data-canonical-src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/472c222e8f240a48ae51cd9b082a1b857be809dcd851a25150890c2da50c13a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/472c222e8f240a48ae51cd9b082a1b857be809dcd851a25150890c2da50c13a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-- **Backend**: NodeJs, ExpressJs
-- **Database**: Sequelize, PostgreSQL
-- **Design**: Tailwind CSS
-- **Version Control**: Git
+
+## **Backend**:
+<p>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a78be6671a8f55a1937bb2c1b4ffdbab5057fd953539705e530f95218d77e37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7a78be6671a8f55a1937bb2c1b4ffdbab5057fd953539705e530f95218d77e37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.js" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
 
 ## Languages
 English: B1 Level

@@ -33,7 +33,7 @@ English: B1 Level
 If you're interested in collaborating on exciting projects or just want to chat about development, don't hesitate to contact me!
 <ul>
   <li> 📫 Email: <a href="mailto:yaco2002@live.com.mx">yaco2002@live.com.mx</a> </li>
-  <li>💬 LinkedIN: (https://www.linkedin.com/in/oswaldo-palacios-perez-523887270/)</li>
+  <li>💬 LinkedIn: (https://www.linkedin.com/in/oswaldo-palacios-perez-523887270/)</li>
 </ul>
 
 ---
@@ -71,4 +71,7 @@ Inglés: Nivel B1
 
 ## Contacto
 Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres charlar sobre desarrollo, ¡no dudes en contactarme!
-💌 oswaldodevelop@gmail.com [Linkedin](https://www.linkedin.com/in/oswaldo-palacios-perez-523887270/) 😊
+<ul>
+  <li> 📫 Email: <a href="mailto:yaco2002@live.com.mx">yaco2002@live.com.mx</a> </li>
+  <li>💬 LinkedIn: (https://www.linkedin.com/in/oswaldo-palacios-perez-523887270/)</li>
+</ul>

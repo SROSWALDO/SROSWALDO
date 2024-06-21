@@ -32,7 +32,7 @@ English: B1 Level
 ## Contact
 If you're interested in collaborating on exciting projects or just want to chat about development, don't hesitate to contact me!
 <ul>
-  <li> 💌 oswaldodevelop@gmail.com</li>
+  <li> 📫 Email: <a href="mailto:yaco2002@live.com.mx">yaco2002@live.com.mx</a> </li>
   <li>💬 LinkedIN: (https://www.linkedin.com/in/oswaldo-palacios-perez-523887270/)</li>
 </ul>
 

@@ -31,7 +31,10 @@ English: B1 Level
 
 ## Contact
 If you're interested in collaborating on exciting projects or just want to chat about development, don't hesitate to contact me!
-💌 oswaldodevelop@gmail.com [Linkedin](https://www.linkedin.com/in/oswaldo-palacios-perez-523887270/) 😊
+<ul>
+  <li> 💌 oswaldodevelop@gmail.com</li>
+  <li>💬 LinkedIN: (https://www.linkedin.com/in/oswaldo-palacios-perez-523887270/)</li>
+</ul>
 
 ---
 

@@ -67,7 +67,7 @@ Soy un apasionado desarrollador Full Stack con una mentalidad innovadora. Disfru
 </p>
 
 ## Idiomas
-Inglés: Nivel B2
+Inglés: Nivel B1
 
 ## Contacto
 Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres charlar sobre desarrollo, ¡no dudes en contactarme!

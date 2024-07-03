@@ -1,7 +1,7 @@
 # Hi, I'm Oswaldo 👋
 
 ## About Me
-Im a passionate Full Stack developer with an innovative mindset. I enjoy working in teams and am constantly learning new technologies to enhance my skills and add value to my projects🌟
+I'm a passionate Full Stack developer with an innovative mindset. I enjoy working in teams and am constantly learning new technologies to enhance my skills and add value to my projects🌟
 
 ## Skills and Technologies
 - **Frontend**:

@@ -1,4 +1,4 @@
-# Hi, I'm Oswal!👋
+# Hi, I'm Oswaldo!👋
 
 ## About Me
 I'm a passionate Full Stack developer with an innovative mindset. I enjoy working in teams and am constantly learning new technologies to enhance my skills and add value to my projects🌟

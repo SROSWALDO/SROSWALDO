@@ -52,10 +52,30 @@ I'm a passionate Full Stack developer with an innovative mindset. I enjoy workin
 
 ## **Backend**:
 <p>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a78be6671a8f55a1937bb2c1b4ffdbab5057fd953539705e530f95218d77e37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7a78be6671a8f55a1937bb2c1b4ffdbab5057fd953539705e530f95218d77e37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.js" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb876ca18280370630a564c82b9382b6070e15f82b78d5c27819930d63dfbf88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3532423045373f7374796c653d666f722d7468652d6261646765266c6f676f3d73657175656c697a65266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/eb876ca18280370630a564c82b9382b6070e15f82b78d5c27819930d63dfbf88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3532423045373f7374796c653d666f722d7468652d6261646765266c6f676f3d73657175656c697a65266c6f676f436f6c6f723d7768697465" alt="Sequelize" data-canonical-src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&amp;logo=sequelize&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/38f0c319f4d14f5f01953e495dd4932c800383b024ac991b46ffed3a99254ee8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3333363739313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/38f0c319f4d14f5f01953e495dd4932c800383b024ac991b46ffed3a99254ee8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3333363739313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4912b34d2a0c3d279f4abc1c39e75a2cdcbf874433796a72745dda64efb68df7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/4912b34d2a0c3d279f4abc1c39e75a2cdcbf874433796a72745dda64efb68df7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" alt="Express.js" data-canonical-src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" 
+         alt="Node.js" 
+         style="max-width: 100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" 
+         alt="Sequelize" 
+         style="max-width: 100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" 
+         alt="PostgreSQL" 
+         style="max-width: 100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" 
+         alt="Express.js" 
+         style="max-width: 100%;">
+</a>
+
 </p>
 
 ## Languages

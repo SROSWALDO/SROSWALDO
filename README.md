@@ -45,6 +45,9 @@ I'm a passionate Full Stack Developer with a strong focus on Frontend and Mobile
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</a>
 </p>
 
 ### Tools & Platforms
